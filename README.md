@@ -12,11 +12,11 @@ We introduce two methods to capture the spatial arrangement of POIs: one is the 
 
 ## **Paper**
 
-If you find the paper useful, you may cite from here: 
+If you find the paper useful, please feel free to cite from here: 
 
-Liu, L., Gu, X.*, Lan, M., Zhou, H., Chen, D., and Su, Z. (2025). Capturing the Spatial Arrangement of POIs in Crime Modeling. Computers, Environment and Urban Systems. 
+Liu, L., Gu, X.*, Lan, M., Zhou, H., Chen, D., and Su, Z. (2025). [Capturing the Spatial Arrangement of POIs in Crime Modeling](https://doi.org/10.1016/j.compenvurbsys.2024.102245). Computers, Environment and Urban Systems. DOI: https://doi.org/10.1016/j.compenvurbsys.2024.102245
 
-@article{Gu@ComputationalCriminology,
+@article{QuantitativeCriminology,
 
   title={Capturing the Spatial Arrangement of POIs in Crime Modeling},
   
@@ -24,15 +24,15 @@ Liu, L., Gu, X.*, Lan, M., Zhou, H., Chen, D., and Su, Z. (2025). Capturing the 
   
   journal={Computers, Environment and Urban Systems},
   
-  volume={xx},
+  volume={117},
+
+  Month={April},
   
-  number={xx},
+  year={2025},
+
+  pages={102245},
   
-  pages={xx},
-  
-  year={20xx},
-  
-  doi = {will update},
+  doi = {https://doi.org/10.1016/j.compenvurbsys.2024.102245},
   
   publisher={Elsevier}
   
